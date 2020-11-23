@@ -1,6 +1,6 @@
-# Bonjour/Hello, I'm Johnny aka [Alleyesonme21][website]👋🏾 🇭🇹 🇺🇸
+# Bonjour/Hello, I'm Johnny aka Alleyesonme21 👋🏾 🇭🇹 🇺🇸
 
-## I'm a Developer, Guitarist, Reggae-Music Lover, and bilingual French 🇫🇷 and English Speaker
+## I'm a Developer, Guitarist, Reggae-Music Lover, and Trilingual Creole 🇭🇹, French 🇫🇷 and English Speaker
 
 - 👨🏿‍💻 I am currently a full-stack C# and React programming student at [Epicodus][education] 
 - 🎸 I have played rhythm guitar for over 20 years and have [toured professionally][touring] throughout South America
@@ -36,11 +36,16 @@
 [<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />]
 [<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />]
 [<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />]
+
 <br />
-</details>
+<br />
+
+---
+
 
 [website]: johnnyduverseau.com
 [education]: https://www.epicodus.com/online
 [touring]: https://www.youtube.com/watch?v=4qgKYZ8RtM0
 [facebook]: https://www.facebook.com/johnny.duverseau
 [linkedin]: https://www.linkedin.com/in/johnnyduverseau/
+
