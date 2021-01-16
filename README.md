@@ -3,6 +3,7 @@
 ## I'm a Developer, Guitarist, Reggae-Music Lover, and a Polyglot (Creole 🇭🇹, French 🇫🇷 and English)
 
 - 👨🏿‍💻 I am currently a full-stack Javacript, C# and React programming student at [Epicodus][education] 
+- 💉 I am also a Web Development Intern at [Aidin][aidin], a healthcare software startup, featured in [Time][time] magazine and [Inc.][inc] 
 - 🎸 I have played rhythm guitar for over 20 years and have [toured professionally][touring] throughout South America
 - 🏥 I love mission-driven work (and volunteering) and spent my early career as a music therapist with Doctors Without Borders
 - 🥅 2021 Goals: Graduate from Epicodus and secure my first full-time role on a dev team
@@ -56,4 +57,6 @@
 [touring]: https://www.youtube.com/watch?v=4qgKYZ8RtM0   
 [facebook]: https://www.facebook.com/johnny.duverseau
 [linkedin]: https://www.linkedin.com/in/johnnyduverseau/
-
+[aidin]: https://myaidin.com/
+[time]: https://time.com/5027083/uncle-alzheimer-battle-inspired-me-to-disrupt-healthcare/
+[inc]: https://www.inc.com/maisie-devine/this-harvard-grad-created-a-startup-to-disrupt-the-1-trillion-dollar-healthcare.html
