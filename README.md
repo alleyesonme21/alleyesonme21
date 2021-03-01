@@ -2,8 +2,9 @@
 
 ## I'm a Developer, Guitarist, Reggae-Music Lover, and a Polyglot (Creole 🇭🇹, French 🇫🇷 and English)
 
-- 👨🏿‍💻 I recently graduated from [Epicodus][education] (1,000+ hour, 27 week bootcamp) focusing on Javacript, C# and React (February 2021) 
+- 👨🏿‍💻 I recently graduated from [Epicodus][education] (1,000+ hour, 27 week bootcamp) focusing on Javacript, C# and React (February 2021 graduation) 
 - 💉 I am also a Web Development Intern at [Aidin][aidin], a healthcare software startup, featured in [Time][time] magazine and [Inc.][inc] 
+- 🌎 Currently working on an API map application for [Aidin][aidin] to support enterprise sales & marketing using Firebase, React, and PostgreSQL
 - 🎸 I have played rhythm guitar for over 20 years and have [toured professionally][touring] throughout South America
 - 🏥 I love mission-driven work (and volunteering) and spent my early career as a music therapist with Doctors Without Borders
 - 🥅 2021 Goals: Graduate from Epicodus and secure my first full-time role on a dev team
