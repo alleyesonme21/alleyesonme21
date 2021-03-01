@@ -7,7 +7,7 @@
 - 🌎 Currently working on an API map application for [Aidin][aidin] to support enterprise sales & marketing using Firebase, React, and PostgreSQL
 - 🎸 I have played rhythm guitar for over 20 years and have [toured professionally][touring] throughout South America
 - 🏥 I love mission-driven work (and volunteering) and spent my early career as a music therapist with Doctors Without Borders
-- 🥅 2021 Goals: Graduate from Epicodus and secure my first full-time role on a dev team
+- 🥅 2021 Goals: Graduate from Epicodus (done!) and secure my first full-time role on a dev team
 - ⚡ Fun fact: I run a small business helping other immigrants apply for green cards and visas
 
 <br />
